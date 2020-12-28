@@ -18,7 +18,7 @@ if(hora > 6 && hora < 12){
     msg.innerHTML = ` Boa Tarde , Agora São ${hora} Horas e ${min} min.`
 
     foto.src = 'img/tarde.png'
-    document.body.style.background = 'grenn'
+    document.body.style.background = 'red'
     
 } else{
     msg.innerHTML = ` Boa Noite , Agora São ${hora} Horas e ${min} min.`

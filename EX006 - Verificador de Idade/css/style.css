@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap');
+body {
+    background: rgb(51, 116, 255);
+    font: normal 14pt Arial;
+}
+header {
+    color: white;
+    text-align: center;
+
+}
+section {
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    width: 50vw;
+    height: 50vh;
+    box-shadow: 5px 5px 10px black;
+
+}
+.res {
+    margin-top: 20px;
+}
+    
+
+
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    
+
+}
+
